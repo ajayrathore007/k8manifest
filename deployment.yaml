@@ -18,7 +18,7 @@ spec:
         app: argodemo
     spec:
       containers:
-      - image: 8946855548/argov2:latest
+      - image: 8946855548/argov2:35
         name: argodemo
         resources: {}
 status: {}
